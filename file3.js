@@ -1,5 +1,6 @@
 //
 // Main module
+// By Me
 //
 var canvas = document.getElementById("myCanvas");
 var ctx = canvas.getContext("2d");
